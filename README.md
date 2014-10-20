@@ -38,4 +38,9 @@ Usage
     ./images3-play
     (windows user, run images3-play.bat)
     
+License
+-------
+
+Apache License 2.0, see LICENSE
+
 
